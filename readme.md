@@ -30,7 +30,7 @@ The program writes a file called `ouput.txt` which contains the sequence of time
 
         How many Finishing Time Divisions : 3
         Input 2th Division : 14
-        Input 2th Division : 9
+        Input 2th Division : 8
         Input 2th Division : 0
 ```
 
