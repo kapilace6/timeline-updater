@@ -13,7 +13,7 @@ Fix the issue mentioned above, and make sure the edge cases of input are appropr
 
 ### Input
 The program takes 2 inputs: A `Start Time` and an `End Time`<br>
-The input for each time is taken in split fashion (hours, then minutes, then seconds)
+The input for each time is taken in split fashion (minutes, then seconds, then milliseconds)
 
 ### Output
 The program writes a file called `ouput.txt` which contains the sequence of times in the inputted time range.
